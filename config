@@ -1,0 +1,30 @@
+[global_config]
+[keybindings]
+[layouts]
+  [[default]]
+    [[[default]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#ffffff"
+    cursor_color = "#000000"
+    font = Menlo 13
+    foreground_color = "#000000"
+    use_system_font = False
+  [[White]]
+    background_color = "#ffffff"
+    cursor_color = "#000000"
+    font = Menlo 13
+    foreground_color = "#000000"
+    use_system_font = False
+  [[white menlo]]
+    background_color = "#ffffff"
+    cursor_color = "#aaaaaa"
+    font = Menlo 13
+    foreground_color = "#000000"
+    use_system_font = False
