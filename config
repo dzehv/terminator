@@ -1,4 +1,5 @@
 [global_config]
+  suppress_multiple_term_dialog = True
 [keybindings]
 [layouts]
   [[default]]
@@ -16,15 +17,4 @@
     font = Menlo 13
     foreground_color = "#000000"
     use_system_font = False
-  [[White]]
-    background_color = "#ffffff"
-    cursor_color = "#000000"
-    font = Menlo 13
-    foreground_color = "#000000"
-    use_system_font = False
-  [[white menlo]]
-    background_color = "#ffffff"
-    cursor_color = "#aaaaaa"
-    font = Menlo 13
-    foreground_color = "#000000"
-    use_system_font = False
+    cursor_blink = False
