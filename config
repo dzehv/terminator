@@ -1,6 +1,7 @@
 [global_config]
   suppress_multiple_term_dialog = True
 [keybindings]
+    broadcast_group = None
 [layouts]
   [[default]]
     [[[default]]]
